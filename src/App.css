@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.container {
+  border: #282c34 solid;
+  width: 750px;
+  min-height: 250px;
+  background-color: #1E2122;
+  color: white;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 20px auto;
+}
+
+h1 {
+  color: #87CEEB;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5)
+}
+
+h2 {
+  color: #03A9F4;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5)
+}
+
+.weatherData {
+  border: #03A9F4 solid;
+  padding: 20px;
+  width: 300px;
+  height: 200px;
+  margin: 0 auto; 
+  text-align: center;
+}
