@@ -1,4 +1,4 @@
-# Deployd in Vercel
+# Deployed in Vercel
 
 https://weather-app-nine-tawny-93.vercel.app/
 
